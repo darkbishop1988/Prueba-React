@@ -54,5 +54,63 @@ height: 60px;
 }
  
 
+/* Button CSS  */ 
+
+.Sumar { 
+  background-color: antiquewhite;
+  margin-left:  700px
+}
+.Restar { 
+  background-color: antiquewhite;
+
+}
+
+/*Container CSS */ 
+
+.container { 
+ display: flex;
+ justify-content: center;
+ margin-right: 30px;
+}
+
+/* Items CSS  */ 
 
 
+.imagen1 { 
+
+  background-color: blue;
+  width: 700px ;
+  height: 350px;
+  border-radius: 10%;
+  margin-top: 30px;
+  background-image: url(.//imagenes/img6.jpg);
+  background-size: contain; 
+  
+
+}
+
+.imagen2 { 
+
+  background-color: rgb(79, 179, 13);
+  width: 500px ;
+  height: 350px;
+  border-radius: 10%;
+  margin-top: 30px;
+
+}
+
+.imagen3 { 
+
+  background-color: rgb(143, 16, 16);
+  width: 500px ;
+  height: 350px;
+  border-radius: 10%;
+  margin-top: 30px;
+
+}
+
+.contador { 
+  display: flex;
+  align-items: center;
+
+}
