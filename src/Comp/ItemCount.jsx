@@ -23,7 +23,7 @@ import React, {useState} from "react";
   return (
     <>
         <div className="counter">
-            <div className="counter_">{counter}</div>
+            <div className="contador">{counter}</div>
             <button className="Sumar" onClick={handleIncrease}> Sumar</button>
             <button className="Restar" onClick={handleDecrease}>Restar</button>
             <button className="reset" onClick={handleReset}>Reiniciar</button>

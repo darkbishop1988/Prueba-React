@@ -58,7 +58,10 @@ height: 60px;
 
 .Sumar { 
   background-color: antiquewhite;
-  margin-left:  700px
+ 
+  margin-left: 270px;
+
+  
 }
 .Restar { 
   background-color: antiquewhite;
@@ -80,11 +83,12 @@ height: 60px;
 
   background-color: blue;
   width: 700px ;
-  height: 350px;
+  height: 800px;
   border-radius: 10%;
   margin-top: 30px;
-  background-image: url(.//imagenes/img6.jpg);
+  background-image: url(./imagenes/pro1.jpg);
   background-size: contain; 
+  background-size: cover;
   
 
 }
@@ -110,7 +114,9 @@ height: 60px;
 }
 
 .contador { 
-  display: flex;
-  align-items: center;
+  color: rgb(179, 52, 13);
+  font-size: 40px;
+  margin-top: 800px;
+  margin-left: 350px;
 
 }
